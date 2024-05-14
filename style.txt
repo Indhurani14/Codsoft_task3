@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background:  black;
+}
+.wrap{
+
+    padding:  10px;
+    margin:  10%;
+    
+    
+}
+input{
+    font-size: 25px;
+    padding: 10px;
+    text-align: right;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color:  chartreuse;
+}
+.button{
+    width: 90px;
+    height: 75px;
+    position: relative;
+    font-size: 20px;
+    font-size: bold;
+    font-style: center;
+    cursor: pointer;
+    background: transparent;
+}
+.button:hover{
+    color: white;
+}
+.equal{
+    width:  180px;
+    height: 70px;
+    background: transparent;
+    text-align:  center;
+    cursor: pointer;
+    font-size:  25px;
+}
+
